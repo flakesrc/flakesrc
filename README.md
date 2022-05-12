@@ -1,7 +1,9 @@
 <h1 align="center">Hello, world!</h1>
 
 :smiley_cat: Sou Desenvolvedor Web e estudante de Análise e Desenvolvimento de Sistemas
+
 :smiley_cat: Apaixonado por tecnologia e sempre buscando excelencia no trabalho
+
 🌱 Atualmente estou estudando e consolidando meu conhecimento em Desenvolvimento Web com Javascript e AWS.
 
 
