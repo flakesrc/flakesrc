@@ -1,7 +1,6 @@
 <h3 align="center">Hello, world!</h3>
 
-- I'm organizing my Github account, moving learning project repos to gitlab. 
-- Also creating new projects to host in github. 
+- I'm Marcos from Brazil. I'm learning new techs and I'll add new repos soon.
 
 Cya
 
