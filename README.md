@@ -1,7 +1,7 @@
-<h1 align="center">Hello, world!</h1>
+<h3 align="center">Hello, world!</h3>
 
-I'm organizing my Github account, moving learning project repos to gitlab. 
-Also creating new projects to host in github. 
+- I'm organizing my Github account, moving learning project repos to gitlab. 
+- Also creating new projects to host in github. 
 
 Cya
 
