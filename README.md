@@ -14,15 +14,15 @@ Job tests projects
 
 Tutorials and docs projects.
 
-- **Node** 
-  - [Whatabyte](https://gitlab.com/flakesrc/whatabyte)
-  - [Express TS tutorial](https://gitlab.com/flakesrc/express-ts-tutorial)
-  - [Node Api Sample](https://gitlab.com/flakesrc/node-api-sample)
+> **Node** 
+- [Whatabyte](https://gitlab.com/flakesrc/whatabyte)
+- [Express TS tutorial](https://gitlab.com/flakesrc/express-ts-tutorial)
+- [Node Api Sample](https://gitlab.com/flakesrc/node-api-sample)
 
-- **React (Redux, NextJS etc)**
-  - [Redux Blog](https://gitlab.com/flakesrc/redux-blog)
-  - [React Admin Tutorial](https://gitlab.com/flakesrc/react-admin-tutorial)
+> **React (Redux, NextJS etc)**
+- [Redux Blog](https://gitlab.com/flakesrc/redux-blog)
+- [React Admin Tutorial](https://gitlab.com/flakesrc/react-admin-tutorial)
 
-- **Django**
-  > [Django Polls](https://gitlab.com/flakesrc/django-polls)
+> **Django**
+- [Django Polls](https://gitlab.com/flakesrc/django-polls)
 
