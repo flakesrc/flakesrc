@@ -19,7 +19,7 @@ Tutorials and docs projects.
 - [Express TS tutorial](https://gitlab.com/flakesrc/express-ts-tutorial)
 - [Node Api Sample](https://gitlab.com/flakesrc/node-api-sample)
 
-> **React (Redux, NextJS etc)**
+> **React (and their ecossystem)**
 - [Redux Blog](https://gitlab.com/flakesrc/redux-blog)
 - [React Admin Tutorial](https://gitlab.com/flakesrc/react-admin-tutorial)
 
