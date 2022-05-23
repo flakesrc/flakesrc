@@ -2,6 +2,15 @@
 
 I'm Marcos from Brazil. Here is a resume about my repositories
 
+
+### Learning projects
+
+More complete projects from courses and books. 
+
+> **React**
+- [Next JS Music Player](https://github.com/flakesrc/nextjs-music-player)
+
+
 ### Job tests
 
 Job tests projects
