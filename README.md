@@ -6,9 +6,9 @@ I'm Marcos from Brazil. Here is a resume about my repositories
 
 Job tests projects
 
-- **Django**
-  - [Wpensar](https://gitlab.com/flakesrc/test_wpensar)
-  - [Celero](https://gitlab.com/flakesrc/test_celero)
+> **Django**
+- [Wpensar](https://gitlab.com/flakesrc/test_wpensar)
+- [Celero](https://gitlab.com/flakesrc/test_celero)
   
 ### Small projects 
 
