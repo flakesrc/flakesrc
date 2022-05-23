@@ -1,6 +1,6 @@
 <h3 align="center">Hello, World!</h3>
 
-I'm Marcos from Brazil. Here is a resume about my repositories
+I'm Marcos from Brazil. Here is a resume about my repositories.
 
 
 ## Learning projects
