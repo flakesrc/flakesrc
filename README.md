@@ -5,6 +5,7 @@
 
 Cya
 
+// TO-DO: move content bellow to another readme file to clean the profile readme
 
 ## Learning projects
 
